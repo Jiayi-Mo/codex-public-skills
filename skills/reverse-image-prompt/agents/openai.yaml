@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 图片提示词反推"
+  short_description: "拆解参考图，生成高还原且可直接使用的中文生图提示词"
+  default_prompt: "请使用 $reverse-image-prompt 拆解这张参考图，并生成一份可直接复制使用的高还原中文生图提示词。"
